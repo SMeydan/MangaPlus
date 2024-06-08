@@ -21,7 +21,7 @@ from app.auth.jwtHandler import create_jwt_token, decode_jwt_token
 
 #Azure Blob Storage
 account_name = "mangaplus"
-account_key = "zZ+KRIhbjw+Rz0u4cbFfmcN9VOd8r7ykx33z0Jleq18nJEbT5lxOQqK0Ddsm0KxLzbSnOUTZdDcE+AStsHiR3A==" 
+account_key = "aaa" 
 container_name = "mangaplus"
 
 # Create a BlobServiceClient object
